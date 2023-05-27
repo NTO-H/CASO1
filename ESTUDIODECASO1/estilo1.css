@@ -1,0 +1,143 @@
+*{
+background-color: rgba(92, 39, 161, 0.998);
+font-family: monospace;
+background:   
+linear-gradient(105deg, rgba(6, 32, 149, 0.2) 39%, rgb(40, 101, 113) 96%) center center / 600px 800px no-repeat,
+center no-repeat, 
+rebeccapurple;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h{
+    /* background-color: rgb(39, 79, 54);
+     */
+     /* background-color: rgba(69, 76, 155, 0.327); */
+
+     background-color: rgb(45, 39, 79);
+
+}
+select {
+    background-color: rgba(63, 232, 250, 0.561);
+
+
+}
+div {
+    background-color: rgb(45, 39, 79);
+
+}
+#label{
+    /* background-color: rgb(255, 219, 127);
+     */
+     background-color: rgb(45, 39, 79);
+
+}
+
+#envia{
+background-color: rgb(255, 0, 0);
+
+}
+#encavezado{
+/* background-color: rgb(255, 219, 127);
+ */
+background-color: rgb(45, 39, 79);
+margin:rgb(23, 44, 44);
+color: rgb(226, 233, 210);
+
+}
+.op{
+/* background-color: cadetblue; */
+/* background-color: rgb(255, 219, 127);
+ */
+background-color: rgb(45, 39, 79);
+
+
+}
+body
+{
+    text-align: center;
+
+}
+
+
+#Nombre{
+color: rgb(255, 238, 0);
+  position: relative;
+  text-align: center;
+}
+#Correo{
+    position: relative;
+    text-align: center;
+
+}
+.f1{
+    border-radius: 6%;
+width: 450px;
+height: 750px;
+background-color: rgb(45, 39, 79);
+  /* Centrar el formulario en la página */
+  margin: 0 auto;
+  width: 483px;
+  border:groove;
+  /* Esquema del formulario */
+  padding: 6em;
+  border: 2px solid #620505;
+  border-radius: 3em;
+}
+.descripcion{
+color:rgb(255, 255, 255);
+background-color: aqua;
+background-image: linear-gradient(-105deg, rgba(0,249,255,1) 39%, rgba(51,56,57,1) 96%);
+}
+.op{
+color: #363e0b;
+background-color: rgb(100, 237, 123);
+
+}
+.ocupacion{
+    background-color: rgb(45, 39, 79);
+
+
+color: aqua;
+
+}
+label,#Correo,#Nombre,#Edad,#password,#Telf,#Edad,#Usuario,#Pais{
+    background-color: rgb(45, 39, 79);
+color: aqua;
+display: inline-block;
+
+width: 180px; 
+
+}
+
+
+input{
+    
+    display:inline-block;
+    width: 180px; 
+    color: aqua;
+}
+.f1{
+    background-color: rgb(45, 39, 79);
+    
+    
+    
+    
+}
+#Correo,#Nombre,#Edad,#password,#Telf,#Edad,#Usuario,#Pais{
+    color: aqua;
+    /* display: inline-block; */
+    /* width: 80px; */
+    
+}
+h{
+color: azure;
+}
+#envia{
+    width: 202px;
+    height: 39px;
+        color: rgb(255, 255, 255);
+    align-content: flex-end;
+    background-color: #f63b3b;
+    position: absolute;top: 128%;
+    justify-content: center;
+
+}
